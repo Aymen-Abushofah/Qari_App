@@ -87,3 +87,18 @@ lib/
     ```
 
 ---
+
+## 🔐 Configuration & Secrets
+
+To protect sensitive information, Firebase configuration files are excluded from this repository. To run the app locally, you must:
+
+1.  **Firebase Project:** Create a Firebase project in the [Firebase Console](https://console.firebase.google.com/).
+2.  **Android:** Download `google-services.json` and place it in `android/app/`.
+3.  **iOS:** Download `GoogleService-Info.plist` and place it in `ios/Runner/`.
+4.  **CLI:** Alternatively, use the [FlutterFire CLI](https://firebase.flutter.dev/docs/cli/) to re-generate `lib/firebase_options.dart`.
+
+```bash
+flutterfire configure
+```
+
+---
