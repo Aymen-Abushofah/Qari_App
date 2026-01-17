@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927720982704",
+    "project_id": "qari-app-a8840",
+    "storage_bucket": "qari-app-a8840.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927720982704:android:048c8d1dc94452cac15375",
+        "android_client_info": {
+          "package_name": "com.et.qari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB38FTxat6fTjTN6giHFVKWOCtphJNdXZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
